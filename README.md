@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tehmansardar!
+- 👋 Hi, I’m Tehman Sardar!
 - 👀 I’m interested in JavaScript/Mern stack & wordPress work.
 - 🌱 I’m currently learning Reaect Native.
 - 💞️ I’m looking to collaborate on PHP, Wordpress, Mern stack / React native projects.
