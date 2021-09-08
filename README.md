@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript & wordPress work
 - 🌱 I’m currently learning Reaect Native
 - 💞️ I’m looking to collaborate on PHP, Wordpress, Reactjs, React Native work,
-- 📫 How to reach me 
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/tehmansardar) | [Facebook](https://www.facebook.com/tehmaansardar) 
 
 <!---
 tehmansardar/tehmansardar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
