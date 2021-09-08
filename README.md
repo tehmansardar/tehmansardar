@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tehmansardar
-- 👀 I’m interested in JavaScript & wordPress work
+- 👀 I’m interested in JavaScript/Mern stack & wordPress work
 - 🌱 I’m currently learning Reaect Native
-- 💞️ I’m looking to collaborate on PHP, Wordpress, Reactjs, React Native work,
+- 💞️ I’m looking to collaborate on PHP, Wordpress, Mern stack / React native work
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/tehmansardar) | [Facebook](https://www.facebook.com/tehmaansardar) 
 
 <!---
