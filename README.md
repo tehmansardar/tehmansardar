@@ -4,11 +4,11 @@ Hi 👋 My name is Tehman Sardar
 Full Stack MERN stack, JavaScript, React Native & WordPress/PHP developer
 -------------------------------------------------------------------------
 
-* 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [tehmansardar@hotmail.com](mailto:tehmansardar@hotmail.com)
-* 🚀  I'm currently working on [Logico Global](http://logico.co/)
-* 🧠  I'm learning Blockchain Development
-* 🤝  I'm open to collaborating on MERN stack, React native & WordPress Projects
+* 🌍  I'm based in Pakistan
+* ✉️  You can contact me at [tehmansardar@hotmail.com](mailto:tehmansardar@hotmail.com)
+* 🚀  I'm currently working on [Logico Global](http://logico.co/)
+* 🧠  I'm learning Blockchain Development
+* 🤝  I'm open to collaborating on MERN stack, React native & WordPress Projects
 
 ### Skills
 
@@ -39,9 +39,7 @@ Full Stack MERN stack, JavaScript, React Native & WordPress/PHP developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/tehman_sardar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/tehmansardar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tehman.sardar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tehmansardar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tehmansardar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
-
-<a href="https://github.com/tehmansardar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehmansardar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
