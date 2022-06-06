@@ -1,4 +1,4 @@
-Hi 👋 My name is Tehman Sardar
+Hi 👋 My name is Zeeshan Sardar
 ==============================
 
 Full Stack MERN stack, JavaScript, React Native & WordPress/PHP developer
