@@ -6,7 +6,7 @@ Full Stack MERN stack, JavaScript, React Native & WordPress/PHP developer
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [tehmansardar@hotmail.com](mailto:tehmansardar@hotmail.com)
-* 🚀  I'm currently working on [PureLogics](http://logico.co/](https://www.purelogics.net/)
+* 🚀  I'm currently working on [PureLogics]([http://logico.co/](https://www.purelogics.net/](https://www.purelogics.net/))
 * 🧠  I'm learning Blockchain Development
 * 🤝  I'm open to collaborating on MERN stack, React native & WordPress Projects
 
